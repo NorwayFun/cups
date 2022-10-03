@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="stylesheet" href="/cups.css" type="text/css">
+    <link rel="shortcut icon" href="/apple-touch-icon.png" type="image/png">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="viewport" content="width=device-width">
+    <title>საწყისი - CUPS @CUPS_VERSION@@CUPS_REVISION@</title>
+  </head>
+  <body>
+    <div class="header">
+      <ul>
+	<li><a href="http://www.cups.org/" target="_blank">CUPS.org</a></li>
+	<li><a class="active" href="/">საწყისი</a></li>
+	<li><a href="/admin">ადმინისტრირება</a></li>
+	<li><a href="/classes/">კლასები</a></li>
+	<li><a href="/help/">დახმარება</a></li>
+	<li><a href="/jobs/">დავალებები</a></li>
+	<li><a href="/printers/">პრინტერები</a></li>
+      </ul>
+    </div>
+    <div class="body">
+      <div class="row">
+	<h1>CUPS @CUPS_VERSION@</h1>
+	<p>CUPS სტანდარტული, ღია კოდის მქონე ბეჭდვის სისტემაა, რომელიც <a href="http://www.apple.com/">Apple Inc.</a>-ის მიერ იქნა შემუშავებული macOS<sup>&reg;</sup> და სხვა UNIX<sup>&reg;</sup>-ის მსგავსი ოპერაციული სისტემებისთვის.</p>
+      </div>
+      <div class="row">
+	<div class="thirds">
+	  <h2>CUPS for Users</h2>
+	  <p><a href="help/overview.html">CUPS-ის მიმოხილვა</a></p>
+	  <p><a href="help/options.html">ბეჭდვა და მორგება ბრძანების სტრიქონიდან</a></p>
+	  <p><a href="http://www.cups.org/lists.php?LIST=cups">მომხმარებლის ფორუმი</a></p>
+	</div>
+	<div class="thirds">
+	  <h2>CUPS for Administrators</h2>
+	  <p><a href="help/admin.html">პრინტერებისა და კლასების დამატება</a></p>
+	  <p><a href="help/policies.html">ოპერაციის წესების მართვა</a></p>
+	  <p><a href="help/network.html">ქსელური პრინტერების გამოყენება</a></p>
+	  <p><a href="help/firewalls.html">ბრანდმაუერები</a></p>
+	  <p><a href="help/man-cupsd.conf.html">cupsd.conf -ის მიმოხილვა</a></p>
+	</div>
+	<div class="thirds">
+	  <h2>CUPS for Developers</h2>
+	  <p><a href="help/cupspm.html">CUPS პროგრამირების სახელმძღვანელო</a></p>
+	  <p><a href="help/api-filter.html">ფილტრისა და უკანაბოლოს პროგრამირება</a></p>
+	  <p><a href="http://www.cups.org/lists.php?LIST=cups-devel">პროგრამისტების ფორუმი</a></p>
+	</div>
+      </div>
+    </div>
+    <div class="footer">CUPS და CUPS -ის ლოგო <a href="http://www.apple.com">Apple Inc.</a>-ის სავაჭრო ნიშნებს წარმოადგენენ.&copy; 2007-2019 Apple Inc., ყველა უფლება დაცულია.</div>
+  </body>
+</html>
